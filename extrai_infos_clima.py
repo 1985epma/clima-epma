@@ -11,6 +11,7 @@ data_fim = data_inicio + timedelta(days=7)
 data_inicio = data_inicio.strftime('%Y-%m-%d')
 data_fim = data_fim.strftime('%Y-%m-%d')
 
+# KEY no site https://www.visualcrossing.com/
 city = 'S%C3%A3o%20Paulo'
 key = ''
 
