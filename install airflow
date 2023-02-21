@@ -1,0 +1,8 @@
+INSTALL APACHE AIRFLOW
+
+pip3 install airflow 
+
+##after installation 
+
+airflow-standalone
+
